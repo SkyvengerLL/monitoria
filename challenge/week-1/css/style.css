@@ -1,0 +1,22 @@
+button{
+   background: var(--alpha);
+   border: 1px solid var(--alpha);
+   border-radius: 50px;
+   color: var(--white);
+   text-align: right;
+   margin-left: 95%;
+   padding: 0.5%;
+}
+
+button:hover{
+   background: var(--white);
+   color: var(--alpha);
+}
+
+.hidden{
+   display: none !important;
+}
+
+.extra{
+   text-align: right;
+}

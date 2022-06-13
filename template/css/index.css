@@ -41,6 +41,13 @@ h2{
 }
 
 p{
+   padding-left: 5%;
+   font-size: 1rem;
+   font-family: var(--main-font);
+}
+
+li{
+   padding-left: 5%;
    font-size: 1rem;
    font-family: var(--main-font);
 }
